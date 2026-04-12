@@ -1,0 +1,665 @@
+
+Question: A solution of 20 L of wine and water contains 80% wine. How much water (in L) must be added to this solution in order to make it a 40% wine solution?
+A: 10 L
+B: 20 L
+C: 15 L
+D: 25 L
+Answer: B
+Explanation: In 20 L solution, wine = 20 × 80% = 16 L and water = 4 L. To make wine 40%, total solution must be 16/0.4 = 40 L. Thus, 40 − 20 = 20 L of water must be added.
+
+---
+Question: In a mixture of 120 L, the ratio of milk and water is 2:3. If 30 L of mixture is replaced by 18 L of milk and 12 L of water, then the new ratio of milk to water is:
+A: 7:9
+B: 9:11
+C: 2:3
+D: 11:9
+Answer: B
+Explanation: After removing 30 L, 90 L remains with milk = 36 L and water = 54 L. Adding 18 L milk and 12 L water gives 54 L milk and 66 L water. New ratio = 54:66 = 9:11.
+
+---
+
+Question: In what ratio should 30% Phenyl Alcohol be mixed with 60% Phenyl Alcohol so that the resultant solution has 50% Phenyl Alcohol?
+A: 1:2
+B: 2:1
+C: 1:3
+D: 3:1
+Answer: A
+Explanation: Using alligation: |60 − 50| : |30 − 50| = 10 : 20 = 1:2.
+
+---
+
+Question: Two liquids A and B are mixed in the ratio 3:2 and sold at Rs. 11/L at 10% profit. If liquid A costs Rs. 2/L more than B, find the cost of A:
+A: Rs. 10.8
+B: Rs. 8.8
+C: Rs. 18.8
+D: Rs. 5
+Answer: A
+Explanation: Selling price Rs. 11 at 10% profit → CP = Rs. 10. Let cost of B be x. Using weighted average: 3(x+2)/5 + 2x/5 = 10. Solving gives cost of A = x + 2 = Rs. 10.8.
+
+---
+
+Question: In a 105 L mixture, milk and water ratio is 8:7. Some mixture is removed (containing 14 L water) and 5 L water is added. The new ratio is:
+A: 19:20
+B: 4:5
+C: 1:1
+D: 2:3
+Answer: C
+Explanation: 14 L water removed implies (15/7) × 14 = 30 L of mixture was removed. Remaining mixture is 75 L (40 L milk, 35 L water). Adding 5 L water → 40 L milk and 40 L water, ratio 1:1.
+
+---
+
+Question: A milkman mixes 20 L water with 80 L milk. After selling 1/4 of the mixture, he adds water to replenish the sold quantity. What is the current water to milk ratio?
+
+A: 2:3
+B: 1:2
+C: 1:3
+D: 3:4
+Answer: A
+Explanation: Initial: 80M, 20W. Selling 1/4 leaves 60M and 15W. Adding 25 L water → 60M and 40W. Water:Milk = 40:60 = 2:3.
+---
+
+Question: A can contains A and B in ratio 7:5. When 9 L is replaced with liquid B, the ratio becomes 7:9. Initial quantity of A was:
+A: 10 L
+B: 15 L
+C: 21 L
+D: 25 L
+Answer: C
+Explanation: Let total capacity be x. Proportion of A: [7/12(x−9)] / x = 7/16. Solving gives x = 36 L. Initial A = (7/12) × 36 = 21 L.
+
+---
+
+Question: Gold is 18 times as heavy as water; copper is 8 times as heavy. In what ratio should they be mixed so the mixture is 15 times as heavy as water?
+
+A: 3:2
+B: 7:3
+C: 3:7
+D: 2:3
+Answer: C
+Explanation: Using Alligation: |8 − 15| : |18 − 15| = 7:3 (Gold:Copper). For Copper:Gold ratio → 3:7.
+---
+
+Question: Adding 35 L water makes milk concentration 30%. Adding 40 L more reduces it to 20%. How much more water is needed to reach 8%?
+A: 120 L
+B: 150 L
+C: 160 L
+D: 180 L
+Answer: D
+Explanation: Solving the two equations yields milk = 240 L (constant). At 8% concentration, total solution = 240/0.08 = 3000 L. Current solution after first two additions = 3000 − additional water needed. Solving gives 180 L more water needed.
+
+---
+
+Question: Two alloys (6 kg and 12 kg) have different iron %. Swapping equal-weight pieces makes iron % identical in both. Weight of swapped piece:
+A: 4 kg
+B: 3.5 kg
+C: 3 kg
+D: None
+Answer: A
+Explanation: Let the piece weight be w. Setting up the concentration equality equation and solving: (12 − 3w) = 0 → w = 4 kg.
+
+---
+
+Question: The speeds of a scooter, a car and a train are in the ratio 1:4:16. If all of them cover equal distance, the ratio of time taken by each is:
+A: 256:16:1
+B: 1:4:16
+C: 16:4:1
+D: 16:1:4
+Answer: C
+Explanation: Time is inversely proportional to speed when distance is constant. Ratio of time = 1/1 : 1/4 : 1/16. Multiplying by 16 gives 16:4:1.
+
+---
+
+Question: By walking at 4/5th of his usual speed, a man reaches office 10 minutes later than usual. What is the usual time taken by the man to reach office?
+A: 30 min
+B: 40 min
+C: 35 min
+D: 50 min
+Answer: B
+Explanation: Walking at 4/5 speed means taking 5/4 of usual time. The extra 1/4 of usual time = 10 minutes. Usual time = 10 × 4 = 40 minutes.
+
+---
+
+Question: If a man walks at 5 km/hr, he reaches office 5 minutes late. If he walks at 6 km/hr, he reaches 5 minutes early. The distance from his house to office is:
+A: 5 km
+B: 4 km
+C: 3 km
+D: 6 km
+Answer: A
+Explanation: Time difference = 10 minutes = 1/6 hr. Equation: x/5 − x/6 = 1/6. Solving x(1/30) = 1/6 gives x = 5 km.
+
+---
+
+
+Question: A train travels at 15 km/hr. If speed had been 10 km/hr more, it would have taken 8 hours less. Distance between stations A and B is:
+A: 100 km
+B: 250 km
+C: 300 km
+D: 200 km
+Answer: C
+Explanation: New speed = 25 km/hr. Let distance = x. x/15 − x/25 = 8. Solving: 10x/375 = 8 → x = 300 km.
+
+---
+
+Question: Walking at 3/4 of his normal speed, Bharat takes 45 minutes more than normal to reach office. Find his normal time.
+A: 2.25 hr
+B: 2 hr
+C: 4 hr
+D: 1.5 hr
+Answer: A
+Explanation: At 3/4 speed, he takes 4/3 of normal time. Extra time = 1/3 of normal time = 45 min. Normal time = 45 × 3 = 135 minutes = 2.25 hr.
+
+---
+Question: A train travelling 100 km at x km/hr arrives 1 hr late. What should have been the speed to arrive on time?
+A: 100x/(100+x)
+B: 100x/(100−x)
+C: (100−x)/100x
+D: None of these
+Answer: B
+Explanation: Actual time needed = 100/x − 1 = (100−x)/x hours. Required speed = 100 / [(100−x)/x] = 100x/(100−x).
+
+---
+
+Question: If a man cycles at 10 km/hr, he arrives at 1 p.m. At 15 km/hr, he arrives at 11 a.m. At what speed must he cycle to get there at noon?
+A: 11 km/hr
+B: 12 km/hr
+C: 13 km/hr
+D: 14 km/hr
+Answer: B
+Explanation: Let time at 10 km/hr be t. Then 10t = 15(t−2) → t = 6 hrs. Distance = 60 km. To arrive at noon (5 hrs travel), speed = 60/5 = 12 km/hr.
+
+---
+
+Question: A Porsche has to cover 928 km in 10 hrs. If it covers the first half in 3/5 of total time, what should be its speed for the remaining journey?
+A: 124 km/hr
+B: 164 km/hr
+C: 116 km/hr
+D: 120 km/hr
+Answer: C
+Explanation: First half = 464 km in 6 hrs. Remaining: 464 km in 4 hrs. Required speed = 464/4 = 116 km/hr.
+
+---
+
+Question: A man leaves P at 6 a.m. and reaches Q at 10 a.m. Another man leaves Q at 8 a.m. and reaches P at 12 noon. At what time do they meet?
+A: 9 a.m.
+B: 10 a.m.
+C: 8:30 a.m.
+D: 9 p.m.
+Answer: A
+Explanation: Both take 4 hours for the same distance → equal speeds. By 8 a.m., first man has covered half the distance. They meet 1 hour later (at 9 a.m.) since their equal speeds close the remaining gap.
+
+---
+
+Question: A man travels 3/5 of A to B at speed 3a, and rest at speed 2b. Returns at constant speed 5c in same total time. Which is true?
+A: 1/a + 1/b = 1/c
+B: a + b = c
+C: 1/a + 1/b = 2/c
+D: None of these
+Answer: C
+Explanation: Time for trip = x/(5a) + x/(5b). Time for return = 2x/(5c). Equating and simplifying: 1/a + 1/b = 2/c.
+
+---
+
+Question: A man saw a train passing over a 10 km long bridge. The length of the train is one-fourth that of the bridge. If the train clears the bridge in 2.5 min, the speed of the train is:
+A: 150 km/hr
+B: 300 km/hr
+C: 250 km/hr
+D: 120 km/hr
+Answer: B
+Explanation: Train length = 10/4 = 2.5 km. Total distance = 10 + 2.5 = 12.5 km in 2.5 min = 5 km/min. Speed = 5 × 60 = 300 km/hr.
+
+---
+
+Question: Two boats at 5 and 10 km/hr head towards each other from 20 km apart. How far apart are they one minute before they collide?
+A: 1/12 km
+B: 1/6 km
+C: 1/4 km
+D: 1/3 km
+Answer: C
+Explanation: Relative speed = 5 + 10 = 15 km/hr. In 1 minute, they collectively cover 15/60 = 1/4 km.
+
+---
+
+Question: If a train crosses a man in 10 sec and a 150 m long platform in 22 sec, its speed and length are:
+A: 12.5 m/sec, 125 m
+B: 12 m/sec, 120 m
+C: 13.5 m/sec, 135 m
+D: 13 m/sec, 130 m
+Answer: A
+Explanation: Let speed = s, length = x. x/s = 10 → x = 10s. (150+x)/s = 22 → 150 + 10s = 22s → 12s = 150 → s = 12.5 m/sec, x = 125 m.
+
+---
+
+Question: Distance between X and Y is 220 km. Train from X at 80 km/hr; after 30 min another from Y at 100 km/hr. Distance of meeting point from X:
+A: 100 km
+B: 120 km
+C: 80 km
+D: 140 km
+Answer: B
+Explanation: First train covers 40 km in 30 min. Remaining 180 km at relative speed 180 km/hr → met in 1 hour. Distance from X = 40 + 80 = 120 km.
+
+---
+
+Question: Train A (11 p.m. → 5 p.m., 18 hrs) and Train B (10 p.m. → 6 a.m., 8 hrs). At what time will they cross?
+A: 4 a.m.
+B: 3:55 a.m.
+C: 2:51 a.m.
+D: 3:51 a.m.
+Answer: D
+Explanation: LCM(18,8) = 72 km. Speed A = 4 km/hr, Speed B = 9 km/hr. By 11 p.m., B covered 9 km. Remaining = 63 km at relative speed 13 km/hr → meet after 63/13 hrs ≈ 3:51 a.m.
+
+---
+
+Question: August Kranti (80 km/hr) and Rajdhani (120 km/hr) usually cross at 4:30 p.m. If Rajdhani leaves 10 min late, when will they cross?
+A: 4:32 p.m.
+B: 4:38 p.m.
+C: 4:40 p.m.
+D: 4:36 p.m.
+Answer: D
+Explanation: Late train is 20 km away at 4:30 p.m. (120 × 10/60). Relative speed = 200 km/hr. Time to cover 20 km = 6 min. They meet at 4:36 p.m.
+
+---
+
+Question: X and Y take 36s and 16s to reach destinations after crossing at R. One day Y starts late and X covers 20 km first. Distance between R and new meeting point:
+A: 12 km
+B: 10 km
+C: 16 km
+D: 8 km
+Answer: A
+Explanation: Speed ratio a/b = √(16/36) = 2/3. Solving the meeting point equation with X covering 20 km first gives distance from R = 12 km.
+
+---
+
+Question: Buddha (4 m/s) and Biman (3 m/s) start from Singur at 9 a.m. in opposite directions. Mamta starts 10 min later at 36 km/hr from Nandigram. Distance between Buddha and Biman when Mamta meets Biman:
+A: 10 km
+B: 15 km
+C: 13 km
+D: 12 km
+Answer: C
+Explanation: Mamta meets Biman after a calculated time from when Biman started. The distance between Buddha and Biman = relative speed × time = (4+3) × total_time = 13 km.
+
+---
+
+Question: Nikhil normally picks up his children at 5 p.m. One day school ends at 4 p.m., children start walking, he meets them and returns 30 min early. How long did they walk?
+A: 50 min
+B: 55 min
+C: 45 min
+D: 30 min
+Answer: C
+Explanation: Saving 30 min total = 15 min saved on outward journey. He met them at 5:00 − 15 min = 4:45 p.m. Since they started at 4:00 p.m., they walked for 45 minutes.
+
+---
+
+Question: Spaceship A (30,000 km/hr) leaves at noon. After 6 hrs, B (50,000 km/hr) leaves opposite end (9,80,000 km away). C leaves Earth 12 hrs after A, meets A simultaneously with B. Speed of C?
+A: 1,00,000 km/hr
+B: 1,20,000 km/hr
+C: 80,000 km/hr
+D: 96,000 km/hr
+Answer: B
+Explanation: A and B meet 10 hrs after B leaves (A's 16th hour), A at 4,80,000 km. C travels 4 hrs to cover 4,80,000 km. Speed of C = 4,80,000/4 = 1,20,000 km/hr.
+
+---
+Question: In a 500 m race, speed ratio of A:B is 2:3. If A has a start of 170 m, then A wins by:
+A: 5 m
+B: 10 m
+C: 15 m
+D: 20 m
+Answer: A
+Explanation: A covers 330 m. At 2:3 speed ratio, when A covers 330 m, B covers (3/2) × 330 = 495 m. B is 500 − 495 = 5 m behind when A finishes.
+
+---
+
+Question: In a 1 km race, A beats B by 40 m and B beats C by 25 m. By how many meters does A beat C?
+A: 65 m
+B: 60 m
+C: 64 m
+D: 66 m
+Answer: C
+Explanation: S_A:S_B = 1000:960 = 25:24; S_B:S_C = 1000:975 = 40:39. Combined: S_A:S_C = 1000:936. A beats C by 64 m.
+
+---
+
+Question: P beats Q by 20 m in a 120 m race, Q beats R by 24 m in same race. By what distance will P beat R in a 150 m race?
+A: 54 m
+B: 50 m
+C: 48 m
+D: 45 m
+Answer: B
+Explanation: S_P:S_Q = 120:100 = 6:5; S_Q:S_R = 120:96 = 5:4. So S_P:S_R = 6:4. In 150 m, R covers 100 m. P beats R by 50 m.
+
+---
+
+Question: A (2 km/hr) and B (3 km/hr) walk to school. B reaches, turns back, meets A 200 m from home. Distance to school?
+A: 260 m
+B: 240 m
+C: 200 m
+D: 250 m
+Answer: D
+Explanation: Speed ratio 2:3. A travels 200 m while B travels 2d−200. 200/(2d−200) = 2/3 → d = 250 m.
+
+---
+
+Question: A (20 km/hr) and B (15 km/hr) usually meet at X. One day B starts t min late, they meet at Y, 5 km ahead of X. Find t.
+A: 15 min
+B: 20 min
+C: 35 min
+D: 25 min
+Answer: C
+Explanation: A reaches Y 15 min after usual meeting (5/20 × 60). B reaches Y 20 min after usual meeting (5/15 × 60). B started 15 + 20 = 35 min late.
+
+---
+
+Question: Karan beats Arjun by 10 m in 100 m race. If Karan starts 10 m behind in a second race, what happens?
+A: Tie
+B: Arjun beats Karan by 10 m
+C: Arjun beats Karan by 11 m
+D: Karan beats Arjun by 1 m
+Answer: D
+Explanation: Karan covers 100 m when Arjun covers 90 m. At 90 m mark (Karan's 100 m), they are tied. In final 10 m, Karan's higher speed wins by 1 m.
+
+---
+
+Question: Neeta loses to Divya by 10 m, Preeta loses to Divya by 15 m in 100 m races. In 400 m race, Neeta beats Preeta by:
+A: 25 m
+B: 20 m
+C: 25.33 m
+D: 22.23 m
+Answer: D
+Explanation: Preeta/Neeta = (100/90) × (85/100) = 17/18. When Neeta runs 400 m, Preeta runs (17/18) × 400 = 377.77 m. Difference = 22.23 m.
+
+---
+
+Question: Ram (5 km/hr) starts at 9 a.m. for 5 km return trip. Shyam (10 km/hr) starts at 9:45 a.m. for same trip. At what time does Shyam overtake Ram?
+A: 10:20 a.m.
+B: 10:30 a.m.
+C: 10:40 a.m.
+D: 10:50 a.m.
+Answer: B
+Explanation: At 10:15 a.m., Shyam at point B (5 km), Ram is 1.25 km from B returning. Relative speed = 5 km/hr. Overtake time = 1.25/5 hr = 15 min. Shyam overtakes at 10:30 a.m.
+
+---
+Question: A finishes 12 m ahead of B and 18 m ahead of C. B finishes 8 m ahead of C. What is the length of the race?
+A: 36 m
+B: 48 m
+C: 60 m
+D: 72 m
+Answer: B
+Explanation: Let L be the length. Speed ratios: (L−18)/(L−12) = (L−8)/L. Solving gives L = 48 m.
+
+---
+Question: A and B run a 5 km race on a 400 m round course with speeds in ratio 5:4. How many times will the winner cross the other?
+A: 1
+B: 2
+C: 3
+D: 4
+Answer: B
+Explanation: Winner crosses the other every 400/(speed difference) time units. In total race time, they meet 2 times.
+
+---
+
+Question: If n³ is odd for n > 1, which of the following are true? I. n⁴ is even. II. n² is even. III. (n−1)(n+1) is even. IV. n is odd.
+A: Only I
+B: Only IV
+C: III and IV
+D: Only III
+Answer: C
+Explanation: Since n³ is odd, n must be odd. Therefore n², n⁴ are also odd. (n−1)(n+1) = n²−1 = odd−1 = even. So III and IV are both true.
+
+---
+Question: If n = 1 + x, where x is the product of four consecutive positive integers, which are true? A. n is odd. B. n is prime. C. n is a perfect square.
+A: A and C only
+B: A and B only
+C: A only
+D: None of these
+Answer: A
+Explanation: Product of 4 consecutive integers is always even, so n = even + 1 = odd. The product plus 1 simplifies to (x²+x−1)², so n is always a perfect square. A and C are true.
+
+---
+Question: Let x, y, z be distinct odd positive integers. Which statement CANNOT be true?
+A: xyz² is odd
+B: (x−y)²−z is odd
+C: (x+y−z)²(x+y) is even
+D: (x−y)(y+z)(x+y−z) is odd
+Answer: D
+Explanation: Since x, y, z are all odd: (x−y) is even, (y+z) is even. Product of even numbers is even, so it cannot be odd. Option D cannot be true.
+
+---
+
+Question: If x and y are integers with x > y > 0, how many integers are there between x and y (excluding both)?
+A: x − y
+B: x − y − 1
+C: x + y
+D: x + y − 1
+Answer: B
+Explanation: Number of integers between two values = absolute difference minus 1. E.g., between 3 and 1: only 2 exists → 3−1−1 = 1. Answer: x − y − 1.
+
+---
+Question: When you reverse the digits of 13, the number increases by 18. How many other two-digit numbers increase by 18 when reversed?
+A: 3
+B: 2
+C: 0
+D: 6
+Answer: D
+Explanation: 9(Y − X) = 18 → Y − X = 2. Valid (X,Y) pairs: (1,3),(2,4),(3,5),(4,6),(5,7),(6,8),(7,9). Excluding 13, there are 6 other such numbers.
+
+---
+Question: How many four-digit numbers of the form aabb (first two digits equal, last two equal) are perfect squares?
+A: 3
+B: 2
+C: 0
+D: 1
+Answer: D
+Explanation: aabb = 11 × (100a + b). For perfect square, (100a + b) must be 11k². Only a=7, b=4 works: 7744 = 88². Exactly 1 such number.
+
+---
+Question: Prashant typed a 4-digit number N, multiplied by 12, added 39, subtracted 36 dozen, multiplied by 24. Result was 25x2536. What is x?
+A: 2
+B: 4
+C: 6
+D: 5
+Answer: B
+Explanation: Result = 72 × [4N − 131], divisible by 9. Digit sum of 25x2536 = 23 + x must be divisible by 9. x = 4 gives 27. Answer: 4.
+
+---
+Question: Let x, y, z be distinct positive integers with x < y < z and x + y + z = k. What is the smallest k that does NOT uniquely determine x, y, z?
+A: 9
+B: 7
+C: 10
+D: 8
+Answer: D
+Explanation: k=6 → (1,2,3) unique. k=7 → (1,2,4) unique. k=8 → could be (1,2,5) or (1,3,4). So k=8 is the smallest non-unique value.
+
+---
+Question: If cb × c × 3 = ccc, then what is the value of b × c?
+A: 21
+B: 18
+C: 15
+D: 24
+Answer: A
+Explanation: ccc/c = 111. So cb × 3 = 111. Since 111 = 37 × 3, cb = 37, so c = 3 and b = 7. b × c = 7 × 3 = 21.
+
+---
+Question: P₁ and P₂ are twin primes with P₂ > 23. Which number always divides P₁ + P₂?
+A: 12
+B: 8
+C: 24
+D: 16
+Answer: A
+Explanation: Twin primes > 3 are always of the form 6k−1 and 6k+1. Sum = (6k−1) + (6k+1) = 12k. Always divisible by 12.
+
+---
+Question: Two straight lines intersect at the center of a circle, subtending angles a, b, and c. If b − a = 80°, what portion of the total circumference is the arc of angle c?
+A: 5/36
+B: 1/6
+C: 5/18
+D: 1/3
+Answer: A
+Explanation: Since a and b lie on a straight line: b + a = 180°. Given b − a = 80°, solving gives b = 130°, a = 50°. Angle c is vertically opposite to a, so c = 50°. Portion = 50/360 = 5/36.
+
+---
+Question: In a circle with center O, chord AB is extended to C such that BC = OB. Line CO is produced to meet the circle at D. If ∠ACD = y° and ∠AOD = x° such that x = ky, what is k?
+A: 3
+B: 2
+C: 1
+D: None of these
+Answer: A
+Explanation: Since BC = OB, triangle OBC is isosceles → ∠BOC = ∠BCO = y. ∠OBC = 180° − 2y. ∠AOD is an exterior angle of triangle OBC and equals 3y. So x = 3y → k = 3.
+
+---
+Question: Chord ED is parallel to diameter AC. If ∠CBE = 65°, find ∠DEC.
+A: 35°
+B: 55°
+C: 45°
+D: 25°
+Answer: D
+Explanation: AC is a diameter → ∠ABC = 90° (angle in semicircle). ∠ABE = 90° − 65° = 25°. Since ED ∥ AC, alternate interior angle properties give ∠DEC = 25°.
+
+---
+Question: A, B, C lie on a circle. Chord BA extended meets tangent CT at T. If ∠ATC = 30° and ∠ACT = 50°, find ∠BOA.
+A: 100°
+B: 150°
+C: 80°
+D: Cannot determine
+Answer: A
+Explanation: In triangle ATC: ∠TAC = 180° − 30° − 50° = 100°. ∠BAC = 180° − 100° = 80° (angles on a straight line). The central angle ∠BOA = 2 × ∠BCA. Using tangent-chord angle: ∠ACT = 50° = inscribed angle for arc AC, so ∠BOA = 2 × 50° = 100°.
+
+---
+Question: Two secants PCA and PDB intersect at P. If ∠AEC = 115°, ∠BFD = 130°, and ∠P = 30°, find the angle subtended by arc AB at the center.
+A: 80°
+B: 70°
+C: 95°
+D: 110°
+Answer: C
+Explanation: Using the external angle theorem: ∠P = (arc AB − arc CD)/2 = 30°, so arc AB − arc CD = 60°. The reflex angles give arc CD = 360° − 115° − 130° = ... Working through the geometry yields arc AB at center = 95°.
+
+---
+Question: PA and PB are tangents to a circle from point P, with PA = 11 units. CD is another tangent. Find the perimeter of △PCD.
+A: 11 units
+B: 22 units
+C: 33 units
+D: 44 units
+Answer: B
+Explanation: Tangents from external point P: PA = PB = 11. For tangent CD touching the circle at a point between C and D, the perimeter of △PCD = PC + CD + DP = PC + (CE + EF + FD) + DP. Using equal tangent lengths, this simplifies to PA + PB = 11 + 11 = 22 units.
+---
+Question: A is the center of a circle with radius r. BD is a tangent at point C. If BC = CD, what is the area of the shaded region?
+A: 0.61r²
+B: 0.214r²
+C: 0.72r²
+D: 0.305r²
+Answer: D
+Explanation: Since BC = CD and BD is tangent at C, the geometry gives a sector minus triangle configuration. Working through the areas: shaded area = (area of sector) − (area of triangle) = (π/6 − √3/4)r² ≈ 0.305r².
+
+---
+Question: AMD, APQ, and ASR are secants from point A. If AM = 3 cm, MD = 5 cm, and AS = 4 cm, find SR.
+A: 5 cm
+B: 4 cm
+C: 3 cm
+D: 2 cm
+Answer: D
+Explanation: By Secant-Secant Power Theorem: AM × AD = AS × AR. 3 × (3+5) = 4 × AR → 24 = 4 × AR → AR = 6. SR = AR − AS = 6 − 4 = 2 cm.
+
+---
+Question: Two circles with centers P and Q touch each other and have a common tangent touching at R and S. Diameters are in ratio 4:3 and PO = 28 cm. What is the ratio PQ:QO?
+A: 1:4
+B: 1:3
+C: 3:8
+D: 3:4
+Answer: B
+Explanation: With diameter ratio 4:3, radii are 4k and 3k. PQ = 4k + 3k = 7k. Given PO = 28 and using the geometry of touching circles, QO = PO − PQ in the relevant proportion, giving PQ:QO = 1:3.
+
+---
+Question: Based on Q89 (touching circles, diameter ratio 4:3, PO = 28 cm), what is the radius of circle II?
+A: 2 cm
+B: 3 cm
+C: 4 cm
+D: 5 cm
+Answer: B
+Explanation: From Q89: PQ:QO = 1:3 and PO = 28 cm. PQ = 7 cm, QO = 21 cm. With diameter ratio 4:3, if radius of circle I = 4k and circle II = 3k: 4k + 3k = 7 → k = 1. Radius of circle II = 3 × 1 = 3 cm.
+
+---
+Question: Don rejects 40% of projects; Ron accepts only 40% (rejects 60%). What is the probability of a project being rejected by both?
+A: 0.5
+B: 0.8
+C: 0.24
+D: 0.6
+Answer: C
+Explanation: P(rejected by Don) = 0.4; P(rejected by Ron) = 0.6. Since independent: P(both) = 0.4 × 0.6 = 0.24.
+
+---
+Question: A box has 6 red, 7 green, and 5 blue balls, each different size. Given a red ball is selected, what is the probability it is the smallest red ball?
+A: 1/18
+B: 1/3
+C: 1/6
+D: 2/3
+Answer: C
+Explanation: Given a red ball is selected, we consider only the 6 red balls. There is exactly 1 smallest red ball. Probability = 1/6.
+
+---
+Question: Bag I: 3 red, 4 black. Bag II: 5 red, 6 black. A red ball is drawn from a randomly chosen bag. Probability it came from Bag II?
+A: 18/35
+B: 32/41
+C: 35/68
+D: 14/37
+Answer: C
+Explanation: P(Bag II | Red) = (5/11 × 1/2) / [(3/7 × 1/2) + (5/11 × 1/2)] = (5/11) / (3/7 + 5/11) = (5/11) / (68/77) = 35/68.
+
+---
+Question: 7 people sit around a circular table. What is the probability that 2 specific people are always next to each other?
+A: 0.33
+B: 0.1
+C: 0.167
+D: None of these
+Answer: A
+Explanation: Total circular arrangements = 6! = 720. Treat 2 people as one unit: (6-1)! × 2! = 5! × 2 = 240. Probability = 240/720 = 1/3 ≈ 0.33.
+
+---
+Question: Out of 2n consecutive integers, (n+1) are selected at random. What is the probability their HCF is 1?
+A: 1
+B: 1/(n+1)
+C: 1/2
+D: 1/(n+2)
+Answer: A
+Explanation: By Pigeonhole Principle, selecting n+1 integers from 2n consecutive numbers guarantees at least two are consecutive. HCF of any two consecutive integers = 1, so the overall HCF = 1 always. Probability = 1.
+
+---
+Question: Ramesh draws 4 cards from 2 combined packs of 6 cards (values 1–6, total 12 cards). Probability that at least one pair has the same value?
+A: 2/3
+B: 17/33
+C: 35/68
+D: 16/33
+Answer: B
+Explanation: P(no pair) = (12/12) × (10/11) × (8/10) × (6/9) = 16/33. P(at least one pair) = 1 − 16/33 = 17/33.
+
+---
+Question: Out of 20 eggs, 2 are rotten. If you pick 4, what is the probability the breakfast is uneatable (at least one rotten egg)?
+A: 0.368
+B: 0.5
+C: 0.116
+D: None of these
+Answer: A
+Explanation: P(no rotten) = ¹⁸C₄ / ²⁰C₄ = 3060/4845 ≈ 0.6315. P(uneatable) = 1 − 0.6315 = 0.368.
+
+---
+Question: A 4-digit number is formed using {1, 2, 3, 5} without repetition. Probability it is divisible by 25?
+A: 1/12
+B: 1/24
+C: 1/6
+D: 1/18
+Answer: A
+Explanation: Divisible by 25 → must end in 25 (only valid ending from {1,2,3,5}). Total 4-digit numbers = 4! = 24. Numbers ending in 25 = 2! = 2 (first two digits are {1,3} in any order). Probability = 2/24 = 1/12.
+
+---
+Question: Chord AB subtends 60° at the center. Point C is chosen randomly on the circumference. Probability that center O lies inside △ABC?
+A: 1/4
+B: 1/6
+C: 1/9
+D: Cannot be determined
+Answer: B
+Explanation: For O to lie inside △ABC, C must lie on the major arc such that the triangle spans more than 180° around the center. The valid arc for C measures 60°. Probability = 60°/360° = 1/6.
+
+---
+Question: A bag has 6 red and 4 blue marbles (drawing with replacement). How many draws are needed so P(at least one blue) > 0.7?
+A: 6
+B: 4
+C: 3
+D: 2
+Answer: C
+Explanation: P(all red)ⁿ < 0.3 → (0.6)ⁿ < 0.3. n=2: (0.6)² = 0.36 > 0.3 (fail). n=3: (0.6)³ = 0.216 < 0.3 (pass). Minimum draws = 3.
