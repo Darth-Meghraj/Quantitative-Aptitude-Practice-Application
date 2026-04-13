@@ -172,7 +172,7 @@ python quiz_app.py
 ## 👨‍💻 Author
 
 **Meghraj Bhar**
-BCA Student | Aspiring Software Developer
+BCA Student | Aspiring Machine Learning Engineer
 
 ---
 
